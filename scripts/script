@@ -212,7 +212,7 @@ control_results = ab_test[ab_test['experiment'] == 'control']['brand_Lux']
 treatment_results = ab_test[ab_test['experiment'] == 'exposed']['brand_Lux']
 
 
-
+## A/B Testing
 
 n_con = control_results.count()
 n_treat = treatment_results.count()
