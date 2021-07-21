@@ -6,7 +6,7 @@ SmartAd is a mobile first advertiser agency. It designs intuitive touch-enabled 
 Challenge : As a Machine learning engineer in SmartAd, one of your tasks is to design a reliable hypothesis testing algorithm for the BIO service and to determine whether a recent advertising campaign resulted in a significant lift in brand awareness.
 
 Data:
-The data collected for this challenge has the following columns
+The data collected for this challenge has the following columns\
 auction_id: the unique id of the online user who has been presented the BIO. In standard terminologies this is called an impression id. The user may see the BIO questionnaire but choose not to respond. In that case both the yes and no columns are zero.
 experiment: which group the user belongs to - control or exposed.
 date: the date in YYYY-MM-DD format
